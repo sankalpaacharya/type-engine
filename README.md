@@ -1,3 +1,3 @@
 # Typing Engine
 
-Type-Engine is a headless UI that powers the [typezero](https://github.com/sankalpaacharya/typezero)
+Type-Engine is a headless UI that powers the [zero-two](https://github.com/sankalpaacharya/zero-two)
